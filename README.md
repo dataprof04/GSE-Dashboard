@@ -7,4 +7,6 @@ View the live interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjo
 ** 
 
 ## Screenshot
-See a snapshot of the dasboard:
+See a snapshot of the dashboard
+https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
+
