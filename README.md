@@ -10,3 +10,5 @@ View the live interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjo
 See a snapshot of the dashboard
 example: https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
 
+## Data Source
+Data is publicly available from the Ghana Stock Exchange website: https://gse.com.gh/trading-and-data/#dailyshares
