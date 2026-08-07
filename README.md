@@ -9,7 +9,8 @@ A quick high-level daily overview of stock performance on the Ghana Stock Exchan
 ## Tech Stack
 Data Connectivity: web data accessed using Power BI\
 Data Modeling: Power Bi Desktop and Power Query used to transform, analyze, and visualize data, Published in Power BI service\
-Calculations: Calculated columns, Measures using DAX, time intelligence\Data Visualizations: Cards, Clustered & Stacked bar charts, Tables, KPI\
+Calculations: Calculated columns, Measures using DAX, time intelligence\
+Data Visualizations: Cards, Clustered & Stacked bar charts, Tables, KPI\
 Data Format: Optimized for web, desktop, and mobile views
 
 ## Dashboard Screenshot
