@@ -1,7 +1,7 @@
 # GSE-Dashboard
 
 ## Live Dashboard
-View the live interactive dashboard in near real-time: https://app.powerbi.com/view?r=eyJrIjoiODQwNjY3NjUtMGRjMy00YzU3LWEwZmQtZDkzNTA2YjEwNTliIiwidCI6IjQyY2ZhZmVjLWI5NmItNDBmOS05MmFlLTdiMWU4MzM3YWI4MyJ9
+View the live interactive dashboard in near real-time: (https://app.powerbi.com/view?r=eyJrIjoiODQwNjY3NjUtMGRjMy00YzU3LWEwZmQtZDkzNTA2YjEwNTliIiwidCI6IjQyY2ZhZmVjLWI5NmItNDBmOS05MmFlLTdiMWU4MzM3YWI4MyJ9)
 
 ## Dashboard Overview
 A quick high-level daily overview of stock performance on the Ghana Stock Exchange.
