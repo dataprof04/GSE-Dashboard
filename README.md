@@ -6,6 +6,12 @@ View the live interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjo
 ## Dashboard Overview
 The purpose of this dashboard is to provide a quick high-level daily overview of stock performance on the Ghana Stock Exchange.
 
+## Tech Stack
+PowerBi
+Power Query
+Data Visualizations
+Dax
+
 ## Screenshot
 See a snapshot of the dashboard
 example: https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
