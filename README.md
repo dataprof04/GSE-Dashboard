@@ -7,11 +7,7 @@ View the live interactive dashboard in near real-time: https://app.powerbi.com/v
 A quick high-level daily overview of stock performance on the Ghana Stock Exchange.
 
 ## Tech Stack
-Data Connectivity: web data accessed using Power BI
-Data Modeling: Power Bi Desktop and Power Query used to transform, analyze, and visualize data. Published in Power BI service
-Calculations: Calculated columns, Measures using DAX, time intelligence
-Data Visualizations: Cards, Clustered & Stacked bar charts, Tables, KPI
-Date Format: Optimized for desktop and mobile views
+Data Connectivity: web data accessed using Power BI\Data Modeling: Power Bi Desktop and Power Query used to transform, analyze, and visualize data, Published in Power BI service\Calculations: Calculated columns, Measures using DAX, time intelligence\Data Visualizations: Cards, Clustered & Stacked bar charts, Tables, KPI\Date Format: Optimized for desktop and mobile views
 
 ## Dashboard Screenshot
 https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
