@@ -1,20 +1,20 @@
 # GSE-Dashboard
 
-## Live Interactive Dashboard
-View the live interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjoiODQwNjY3NjUtMGRjMy00YzU3LWEwZmQtZDkzNTA2YjEwNTliIiwidCI6IjQyY2ZhZmVjLWI5NmItNDBmOS05MmFlLTdiMWU4MzM3YWI4MyJ9
+## Live Dashboard
+View the live interactive dashboard in near real-time: https://app.powerbi.com/view?r=eyJrIjoiODQwNjY3NjUtMGRjMy00YzU3LWEwZmQtZDkzNTA2YjEwNTliIiwidCI6IjQyY2ZhZmVjLWI5NmItNDBmOS05MmFlLTdiMWU4MzM3YWI4MyJ9
 
 ## Dashboard Overview
-The purpose of this dashboard is to provide a quick high-level daily overview of stock performance on the Ghana Stock Exchange.
+A quick high-level daily overview of stock performance on the Ghana Stock Exchange.
 
 ## Tech Stack
-PowerBi
-Power Query
-Data Visualizations
-Dax
+Data Connectivity: web data accessed using Power BI
+Data Modeling: Power Bi Desktop and Power Query used to transform, analyze, and visualize data. Published in Power BI service
+Calculations: Calculated columns, Measures using DAX, time intelligence
+Data Visualizations: Cards, Clustered & Stacked bar charts, Tables, KPI
+Date Format: Optimized for desktop and mobile views
 
-## Screenshot
-See a snapshot of the dashboard
-example: https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
+## Dashboard Screenshot
+https://github.com/dataprof04/GSE-Dashboard/blob/main/GSE%20Dashboard%20Snapshot.png
 
 ## Data Source
-Data is publicly available from the Ghana Stock Exchange website: https://gse.com.gh/trading-and-data/#dailyshares
+Publicly available data from the Ghana Stock Exchange: https://gse.com.gh/trading-and-data/#dailyshares
