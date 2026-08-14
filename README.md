@@ -9,7 +9,7 @@ A quick high-level daily overview of stock performance on the Ghana Stock Exchan
 ## Key Features
 KPI and table visuals to display market capitalization, GSE Composite Index, and Financial Stock Index of the Exchange\
 A table for Share price gainers and losers\
-Bar charts to display top five trade volumes and traded share values.\
+Bar charts to display top five trade volumes and traded share values.
 
 ## Tech Stack
 Data Connectivity: web data accessed using Power BI\
